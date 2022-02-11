@@ -1,3 +1,5 @@
+package Serveur_de_chat;
+
 import java.util.ArrayList;
 import javax.swing.JFrame;
 import javax.swing.JLabel;

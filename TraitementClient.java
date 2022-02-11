@@ -1,3 +1,5 @@
+package Serveur_de_chat;
+
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.Scanner;

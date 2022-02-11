@@ -1,3 +1,4 @@
+package Serveur_de_chat;
 
 public class Main {
     public static void main(String arg[])
